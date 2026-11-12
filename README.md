@@ -220,4 +220,11 @@ If governance-impact analysis is part of your workflow, feedback is welcome.
 
 One-Sentence Description
 
-CR141 verifies the account-level consequences of DeFi governance parameter changes before execution and has been historically validated on 28 Compound governance proposals with 474 predicted and 474 observed state transitions.
+CR141 verifies the account-level consequences of DeFi governance parameter changes before execution and has been historically validated on 28 Compound governance proposals with 474 predicted and 474 observed state transitions. 
+#governanceriskanalysis
+#collateralfactorimpact
+#compoundproposalsimulation
+#affectedaccountsafterCFchange
+#defigovernancerisk
+#protocolparameterimpact
+#what-ifcollateralfactorchanges
