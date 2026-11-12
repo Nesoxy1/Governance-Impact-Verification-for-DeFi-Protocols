@@ -117,7 +117,7 @@ Dashboard
 
 Public static dashboard:
 
-https://cr141.pages.dev
+https://cr141.com
 
 
 Displays audited results and pre-computed simulations.
